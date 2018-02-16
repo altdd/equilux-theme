@@ -85,9 +85,13 @@ Seamless textures from various sources and authors, converted to low contrast/br
 
 - [Circle Numix Icons](https://github.com/numixproject/numix-icon-theme-circle): a circle themed icon set well maintained and not too bright (if you use Numix Folders below to tame the folder colors)
 
-- [Numix Folders](https://github.com/numixproject/numix-folders): Customization script to change the colors and style of the numix folder (otherwise too bright and saturated). Recommended settings: Style: 6, Primary color: #9c9c9c, Secondary color; #9c9c9c, Symbol: #656565
+- [Numix Folders](https://github.com/numixproject/numix-folders): Customization script to change the colors and style of the numix folders (otherwise too bright and saturated). Recommended settings: Style: 6, Primary color: #9c9c9c, Secondary color; #9c9c9c, Symbol: #656565
 
 - [Zafiro icons](https://github.com/zayronxio/Zafiro-icons): a flat theme with "washed" pastel colors
+
+- [Papirus-Icon-Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/): a flat, sticker-like icon theme with a few variants (recommended Papirus-Dark)
+
+- [Papirus Folders Script](https://github.com/PapirusDevelopmentTeam/papirus-folders): Customization script to change the colors of the papirus folders. Recommended command: `papirus-folders -C grey --theme Papirus-Dark`
 
 ### GNOME Extensions
 
